@@ -1,4 +1,4 @@
-module gitlab.com/gocor/corviper
+module github.com/gocor/corviper
 
 go 1.16
 
